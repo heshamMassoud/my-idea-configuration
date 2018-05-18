@@ -15,13 +15,4 @@
       <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.8.0" />
     </gwt-sdk-list>
   </component>
-  <component name="libraryTable">
-    <library name="stub [puppet module]">
-      <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/puppet/lib/stubs" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES />
-    </library>
-  </component>
 </application>
