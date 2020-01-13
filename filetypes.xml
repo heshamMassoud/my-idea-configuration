@@ -6,16 +6,15 @@
       <mapping pattern="f" type="PLAIN_TEXT" />
       <mapping pattern="results" type="PLAIN_TEXT" />
       <mapping pattern="result" type="PLAIN_TEXT" />
-      <mapping pattern="scratch" type="PLAIN_TEXT" />
       <mapping pattern="product-sync-log" type="PLAIN_TEXT" />
+      <mapping pattern="scratchy" type="PLAIN_TEXT" />
+      <mapping pattern="testo" type="PLAIN_TEXT" />
+      <mapping pattern="scratch" type="PLAIN_TEXT" />
+      <mapping pattern="page3Ids" type="PLAIN_TEXT" />
       <mapping pattern="fe" type="PLAIN_TEXT" />
       <mapping pattern="page2Ids" type="PLAIN_TEXT" />
-      <mapping pattern="page3Ids" type="PLAIN_TEXT" />
-      <mapping pattern="testo" type="PLAIN_TEXT" />
-      <mapping pattern="scratchy" type="PLAIN_TEXT" />
       <mapping pattern="df" type="PLAIN_TEXT" />
       <mapping pattern="pageIds" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
       <mapping ext="skeleton" type="PLAIN_TEXT" />
